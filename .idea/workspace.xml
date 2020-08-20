@@ -3,8 +3,23 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ac963f9-ccfa-4948-8330-d00761943b38" name="Default Changelist" comment="" />
+    <list default="true" id="5ac963f9-ccfa-4948-8330-d00761943b38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_templates/new/controller/controller.ejs.t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_templates/new/controller/prompt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,11 +148,14 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_templates/new/controller" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_templates/new/controller" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Modules/Core/Models" />
       <recent name="$PROJECT_DIR$/app/Modules/Core" />
@@ -223,6 +241,10 @@
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-200" y="-604" key="NewPhpFileDialog/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597924947800" />
+    <state x="-217" y="-614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597931714159">
+      <screen x="-981" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-217" y="-614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597931714159" />
     <state x="-436" y="-939" width="1088" height="783" key="find.popup" timestamp="1597924714262">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
