@@ -1,5 +1,5 @@
 ---
-to: app/Models/<%= h.inflection.camelize(name, false) %>.php
+to: app/Modules/<%= h.inflection.camelize(module, false) %>/Models/<%= h.inflection.camelize(name, false) %>.php
 ---
 <?php
 
