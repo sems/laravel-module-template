@@ -14,16 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac963f9-ccfa-4948-8330-d00761943b38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_templates/new/controller/route.ejs.t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ModulesTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ModulesTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -134,6 +136,7 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/diego-rlima/artisan-make-file-location" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gMRJiAuwpPYAJNHxstfyZLMpYn" />
@@ -177,6 +180,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597922404359</updated>
       <workItem from="1597922405468" duration="3559000" />
+      <workItem from="1597945554723" duration="82000" />
+      <workItem from="1597945647771" duration="692000" />
     </task>
     <servers />
   </component>
@@ -193,6 +198,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-286" y="-695" key="#Notifications" timestamp="1597923289584">
