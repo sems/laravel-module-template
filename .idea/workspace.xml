@@ -14,11 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac963f9-ccfa-4948-8330-d00761943b38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_templates/new/controller/controller.ejs.t" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_templates/new/controller/prompt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_templates/new/controller/route.ejs.t" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,6 +243,14 @@
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-217" y="-614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597931714159" />
+    <state x="1007" y="-1055" width="1409" height="1036" key="dock-window-1" timestamp="1597933525724">
+      <screen x="939" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="1007" y="-1055" width="1409" height="1036" key="dock-window-1/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597933525724" />
+    <state x="1013" y="-1055" width="1409" height="1036" key="dock-window-2" timestamp="1597934540581">
+      <screen x="939" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="1013" y="-1055" width="1409" height="1036" key="dock-window-2/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597934540581" />
     <state x="-436" y="-939" width="1088" height="783" key="find.popup" timestamp="1597924714262">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
@@ -253,9 +259,9 @@
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-199" y="-635" key="git4idea.remote.GitConfigureRemotesDialog/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597926047634" />
-    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1597925253265">
+    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1597933003194">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
-    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597925253265" />
+    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597933003194" />
   </component>
 </project>
