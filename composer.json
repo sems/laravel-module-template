@@ -15,6 +15,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.24",
         "laravel/tinker": "^2.0",
+        "laravel/ui": "^2.1",
         "zonneplan/laravel-module-loader": "^1.1"
     },
     "require-dev": {
@@ -40,7 +41,8 @@
         },
         "classmap": [
             "database/seeds",
-            "database/factories"
+            "database/factories",
+            "app/Modules/Core/Models"
         ]
     },
     "autoload-dev": {

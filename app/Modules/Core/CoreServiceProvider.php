@@ -8,6 +8,6 @@ class CoreServiceProvider extends Module
 {
     public function getModuleNamespace(): string
     {
-        return 'core';
+        return 'Core';
     }
 }
