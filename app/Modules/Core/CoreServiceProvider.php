@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Core;
+namespace App\Modules\Core;
 
 use Zonneplan\ModuleLoader\Module;
 
