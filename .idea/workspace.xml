@@ -17,8 +17,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/ModulesTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ModulesTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Core/CoreServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Core/CoreServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Core/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Core/Providers/RouteServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Core/Routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +147,7 @@
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/diego-rlima/artisan-make-file-location" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gMRJiAuwpPYAJNHxstfyZLMpYn" />
@@ -146,6 +157,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -154,15 +166,15 @@
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_templates/new/controller" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Modules/Core/Models" />
       <recent name="$PROJECT_DIR$/app/Modules/Core" />
+      <recent name="$PROJECT_DIR$/app/Modules/Core/Http/Controllers" />
       <recent name="$PROJECT_DIR$/app/Http" />
       <recent name="$PROJECT_DIR$/app/Domains/Core/Foundation/Models" />
-      <recent name="$PROJECT_DIR$/app/Domains/Core/Foundation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_templates/new/controller" />
     </key>
   </component>
   <component name="RunManager">
@@ -181,8 +193,17 @@
       <updated>1597922404359</updated>
       <workItem from="1597922405468" duration="3559000" />
       <workItem from="1597945554723" duration="82000" />
-      <workItem from="1597945647771" duration="692000" />
+      <workItem from="1597945647771" duration="1308000" />
+      <workItem from="1597992664381" duration="8322000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix Package">
+      <created>1597950701736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597950701736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +220,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Package" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-286" y="-695" key="#Notifications" timestamp="1597923289584">
@@ -245,29 +270,36 @@
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-200" y="-604" key="NewPhpFileDialog/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597924947800" />
+    <state x="499" y="439" key="Vcs.Push.Dialog.v2" timestamp="1597950703571">
+      <screen x="0" y="25" width="3440" height="1363" />
+    </state>
+    <state x="499" y="439" key="Vcs.Push.Dialog.v2/0.25.3440.1363@0.25.3440.1363" timestamp="1597950703571" />
     <state x="-217" y="-614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597931714159">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-217" y="-614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597931714159" />
-    <state x="1007" y="-1055" width="1409" height="1036" key="dock-window-1" timestamp="1597933525724">
+    <state x="939" y="-1055" width="1410" height="726" key="dock-window-1" timestamp="1597995025334">
       <screen x="939" y="-1055" width="1920" height="1055" />
     </state>
+    <state x="939" y="-1055" width="1410" height="726" key="dock-window-1/-981.-1055.1920.1055/939.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597995025334" />
     <state x="1007" y="-1055" width="1409" height="1036" key="dock-window-1/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597933525724" />
     <state x="1013" y="-1055" width="1409" height="1036" key="dock-window-2" timestamp="1597934540581">
       <screen x="939" y="-1055" width="1920" height="1055" />
     </state>
     <state x="1013" y="-1055" width="1409" height="1036" key="dock-window-2/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597934540581" />
-    <state x="-436" y="-939" width="1088" height="783" key="find.popup" timestamp="1597924714262">
+    <state x="-436" y="-939" width="1088" height="783" key="find.popup" timestamp="1598003044779">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
+    <state x="-436" y="-939" width="1088" height="783" key="find.popup/-981.-1055.1920.1055/939.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1598003044779" />
     <state x="-436" y="-939" width="1088" height="783" key="find.popup/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597924714262" />
     <state x="-199" y="-635" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597926047634">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
     <state x="-199" y="-635" key="git4idea.remote.GitConfigureRemotesDialog/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597926047634" />
-    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1597933003194">
+    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1597995287804">
       <screen x="-981" y="-1055" width="1920" height="1055" />
     </state>
+    <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup/-981.-1055.1920.1055/939.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597995287804" />
     <state x="-356" y="-821" width="670" height="676" key="search.everywhere.popup/939.-1055.1920.1055/-981.-1055.1920.1055/0.25.2048.1203@-981.-1055.1920.1055" timestamp="1597933003194" />
   </component>
 </project>
